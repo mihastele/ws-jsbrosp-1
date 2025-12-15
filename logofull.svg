@@ -1,4 +1,4 @@
-<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+<svg width="320" height="80" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg">
   <!-- Colors -->
   <defs>
     <style>
@@ -19,4 +19,12 @@
 
   <!-- Hammer head -->
   <path d="M30 34 h20 v6 h-6 v3 h-8 v-3 h-6 z" class="brown-dark" />
+
+  <!-- Business text -->
+  <text x="90" y="36" class="text" font-size="22" font-weight="700" letter-spacing="1">
+    Carpentry
+  </text>
+  <text x="90" y="56" class="text" font-size="14" letter-spacing="2">
+    SERVICES
+  </text>
 </svg>
